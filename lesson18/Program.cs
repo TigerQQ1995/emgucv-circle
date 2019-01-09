@@ -18,9 +18,6 @@ namespace Lesson18
         static void Main(string[] args)
         {
             
-
-
-
             ///累计霍夫变换
             //Mat srcImg = CvInvoke.Imread("1.bmp");
             //CvInvoke.Imshow("src", srcImg);
